@@ -12,6 +12,6 @@ npm install
 
 ### Se puede ver la aplicación en este link: 
 
-https://objective-easley-399052.netlify.app/
+https://criptomonedasreactalex.netlify.app/
 
 
